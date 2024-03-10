@@ -1,0 +1,7 @@
+fiftyone:
+  version: "*"
+name: "@allenleetc/select_frames"
+version: "1.0.0"
+description: Select consecutive frames based on reference sample
+operators:
+  - select_frames
