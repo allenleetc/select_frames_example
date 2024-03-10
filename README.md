@@ -1,6 +1,6 @@
 # Frame Segment Selection 
 
-An example [FiftyOne plugin](https://docs.voxel51.com/plugins/index.html) for selecting and viewing a segment of frames given a selected reference frame.
+An example [FiftyOne plugin](https://docs.voxel51.com/plugins/index.html) for selecting and viewing a segment of frames within a FiftyOne Dataset given a selected reference frame.
 
 ### Installation
 
