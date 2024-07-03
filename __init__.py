@@ -1,6 +1,5 @@
 import fiftyone.operators as foo
 import fiftyone.operators.types as types
-import fiftyone as fo
 from fiftyone import ViewField as F
 
 
